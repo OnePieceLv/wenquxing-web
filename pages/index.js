@@ -12,14 +12,7 @@ const Home = () => (
     </Head>
 
     <main>
-      <h1 className="title">欢迎访问 Next.js 应用</h1>
-
-      <p className="description">
-        <a href="https://cloud.tencent.com/product/scf" target="_blank" rel="noopener noreferrer">
-          腾讯云 Serverless
-        </a>
-        为您提供服务
-      </p>
+      <h1 className="title">欢迎访问文曲星官网，敬请期待</h1>
     </main>
   </div>
 )
